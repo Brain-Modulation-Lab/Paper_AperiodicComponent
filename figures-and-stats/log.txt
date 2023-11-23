@@ -1,0 +1,69 @@
+#2022-01-11 AB
+
+
+color_et_ecog = '#C4604F' #ET ECoG
+color_pd_ecog = '#6F67A6' #PD ECoG
+color_ep_seeg = '#C4604F' #EP sEEG
+color_pd_stn = '#F7924A' #PD STN
+color_pd_gpi = '#F9BD00' #PD GPi
+color_et_vim = '#36A5D1' #ET VIM
+color_ep_cm = '#36A5D1' #EP CM
+
+
+
+#2021-12-27 AB
+Jasmine re-run the fooof method over all the data, which I had re-exported a few weeks ago (for some reason some subjects were not exported in the first go). Check /Users/ao622/Dropbox (Personal)/Lab-BML/Expan/2021-07-07-FOOOF-reparam/A01_batch_export_spectra_20211202.m
+
+Jasmine Zou  7:47 AM
+The files are in 'Nexus/Users/zouj/fooof_pla_og/processed_data/sEEG_periodic_components_all.csv' and 'Nexus/Users/zouj/fooof_pla_og/processed_data/sEEG_periodic_components_all.csv'
+the last 18 columns represent the 3 gaussian parameters (center frequency, peak height, band width) for 6 possible peaks. if a fit had less than 6, those cells are empty / NaNs (edited) 
+
+
+Will re-do the figures with this data, except for the figures of old vs new models, which seem to be ok as they are. Check fig-20211123 for old version of figures.
+
+
+color_et_ecog = '#C4604F' #ET ECoG
+color_pd_ecog = '#6F67A6' #PD ECoG
+color_ep_seeg = '#8A4F80' #EP sEEG
+color_pd_stn = '#F7924A' #PD STN
+color_pd_gpi = '#F9BD00' #PD GPi
+color_et_vim = '#36A5D1' #ET VIM
+color_ep_cm = '#9EB859' #EP CM
+
+
+
+
+#2021-11-18 AB
+
+color_et_ecog = '#C4604F' #ET ECoG
+color_pd_ecog = '#6F67A6' #PD ECoG
+color_ep_seeg = '#8A4F80' #EP sEEG
+color_pd_stn = '#F7924A' #PD STN
+color_et_vim = '#36A5D1' #ET VIM
+color_ep_cm = '#9EB859' #EP CM
+
+
+C4604F-6F67A6-8A4F80-F7924A-36A5D1-9EB859
+palettable.io/F7924A-36A5D1-9EB859
+palettable.io/F7924A
+
+#2021-11-15 AB
+
+/Users/ao622/Dropbox (Personal)/Lab-BML/Expan/2021-11-16-FOOOF-figures
+
+Perpearing figures for manuscript / lab meeting
+Copied tables of aperiodic parameters from Jasmine's folder on Nexus
+
+Jasmine Zou  7:57 AM
+New fooof fits are in fooof_pls_og --> you can find csv's for DBS and sEEG in the processed_data directory
+Old fooof fits are in fooof-main --> look under its processed_data directory
+
+20211123 all electrodes without quality control
+/Volumes/Nexus/Users/zouj/fooof_pla_og/processed_data/DBS_aperiodic_components_all_nonqc.csv
+
+/Users/ao622/Dropbox (Personal)/Lab-BML/Expan/2020-05-15-FOOOF/data/electrode_session.txt
+/Users/ao622/Dropbox (Personal)/Lab-BML/Expan/2020-05-15-FOOOF/data/subjects.tsv
+
+/Volumes/Nexus/DBS
+
+

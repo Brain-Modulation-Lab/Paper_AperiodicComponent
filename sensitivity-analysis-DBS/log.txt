@@ -1,0 +1,6 @@
+20231031 AB
+
+Will do a sensitivity analysis in python of the fooof model for the aperiodic paper. 
+
+ 
+

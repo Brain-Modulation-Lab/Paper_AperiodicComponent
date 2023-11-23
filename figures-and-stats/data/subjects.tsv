@@ -1,0 +1,61 @@
+subject	dbs_age	updrs_preop_on	updrs_preop_off	dx	ecog_target	ecog_n	gender	has_EP	has_MER	has_DBS_LFP	has_task	lead_model	lead_type	method	ecog_strip_n	dbs_target	task	task_side	task_n_session_LR	task_n_session_R	task_n_session_L
+DBS3001	69.1	10	25	PD	Vocal motor-sensory	54	Male	No	Yes	No	Yes	3389 - Medtronic	Medtronic	MER	1	STN	U01 speech	Left	NA	4	NA
+DBS3002	59.9	16	29	PD	Vocal motor-sensory	54	Male	No	Yes	No	Yes	3389 - Medtronic	Medtronic	MER	1	STN	U01 speech	Left	NA	3	NA
+DBS3003	51.6	3	17	PD	"Broca's area, Vocal motor-sensory"	"4, 54"	Male	No	Yes	No	Yes	6172 (short) - St. Jude	St. Jude	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS3004	61.8	36	61	PD	Vocal motor-sensory	54	Male	No	Yes	No	Yes	3389 - Medtronic	Medtronic	MER	1	STN	U01 speech	Left	NA	3	NA
+DBS3005	59.6	22	46	PD	"Broca's area, Vocal motor-sensory"	"6, 54"	Male	No	Yes	No	Yes	3389 - Medtronic	Medtronic	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS3006	68.5	6	9	PD	Vocal motor-sensory	63	Female	No	Yes	No	Yes	6172 (short) - St. Jude	St. Jude	MER	1	STN	U01 speech	Left	NA	3	NA
+DBS3008	70.8	NA	NA	PD	Vocal motor-sensory	63	Male	Yes	Yes	No	Yes	3389 - Medtronic	Medtronic	MER	1	STN	U01 speech	Left	NA	2	NA
+DBS3010	70	NA	34	PD	"Broca's area, SMA, Vocal motor-sensory"	"4, 63, 63"	Male	Yes	Yes	No	Yes	3389 - Medtronic	Medtronic	MER	3	STN	U01 speech	Left	NA	3	NA
+DBS3011	66.1	7	30.5	PD	"Broca's area, Vocal motor-sensory"	"4, 63"	Male	Yes	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	NA	2	STN	U01 speech	Left	NA	3	NA
+DBS3012	70	26	43	PD	"Broca's area, Vocal motor-sensory"	"4, 63"	Male	Yes	Yes	Yes	Yes	3389 - Medtronic	Medtronic	MER	2	STN	U01 speech	Left	NA	4	NA
+DBS3014	71	19	30	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	No	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS3015	75	24	42	PD	Vocal motor-sensory	63	Male	No	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	1	STN	U01 speech	Left	NA	4	NA
+DBS3016	66	28	45	PD	Vocal motor-sensory	63	Female	No	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	1	STN	U01 speech	Left	NA	2	NA
+DBS3017	76.8	26	34	PD	Vocal motor-sensory	63	Male	Yes	Yes	No	Yes	6172 (short) - St. Jude	St. Jude	MER	1	STN	U01 speech	Left	NA	3	NA
+DBS3018	62	13	21	PD	"Broca's area, SMA"	"63, 63"	Female	Yes	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	2	STN	U01 speech	Left	NA	4	NA
+DBS3019	71	18	40	PD	"SMA, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	No	Yes	3389 - Medtronic	Medtronic	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS3020	64	15	19	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	Yes	Yes	Vercise - Boston Scientific	Boston Scientific	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS3021	50	NA	6	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Female	No	Yes	Yes	Yes	3389 - Medtronic	Medtronic	NA	2	STN	U01 speech	Left	NA	3	NA
+DBS3022	67	20	38	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS3023	61	7	30	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	Yes	Yes	Vercise - Boston Scientific	Boston Scientific	MER	2	STN	U01 speech	Left	NA	2	NA
+DBS3024	63	27	37	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Female	Yes	Yes	Yes	Yes	Vercise - Boston Scientific	Boston Scientific	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS3025	74	15	22	PD	"Broca's area, Hand motor-sensory"	"63, 63"	Female	Yes	Yes	Yes	Yes	Vercise - Boston Scientific	Boston Scientific	MER	2	STN	U01 speech	Left	NA	2	NA
+DBS3026	69	24	50	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	No	Yes	6172 (short) - St. Jude	St. Jude	MER	2	STN	U01 speech	Left	NA	2	NA
+DBS3027	57	30	33	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	Yes	Yes	Vercise - Boston Scientific	Boston Scientific	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS3028	64	29	39	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Female	Yes	Yes	Yes	Yes	Vercise - Boston Scientific	Boston Scientific	MER	2	STN	U01 speech	Left	NA	4	NA
+DBS3029	78	NA	NA	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	No	Yes	3389 - Medtronic	Medtronic	MER	2	STN	U01 speech	Left	NA	2	NA
+DBS3030	62	30	43	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Female	Yes	Yes	No	Yes	6172 (short) - St. Jude	St. Jude	MER	2	STN	U01 speech	Left	NA	2	NA
+DBS3031	70	26	39	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	No	Yes	6172 (short) - St. Jude	St. Jude	MER	2	STN	U01 speech	Left	NA	2	NA
+DBS3032	56	27	47	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	2	STN	U01 speech	Left	NA	3	NA
+DBS4057	74.6	NA	NA	ET	Vocal motor-sensory	54	Female	No	No	No	Yes	3387 - Medtronic	Medtronic	MER	1	VIM	U01 speech	"Left, Right"	NA	1	1
+DBS4058	75.6	NA	NA	ET	Vocal motor-sensory	54	Female	No	No	No	Yes	3387 - Medtronic	Medtronic	iMRI	1	VIM	U01 speech	Left	NA	1	NA
+DBS4059	72	NA	NA	ET	NA	NA	Female	No	NA	NA	No	NA	NA	MER	NA	VIM	NA	NA	NA	NA	NA
+DBS4060	43.4	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"6, 32"	Female	No	No	No	Yes	6173 (long) - St. Jude	St. Jude	MER	2	VIM	U01 speech	NA	NA	NA	NA
+DBS4061	68.5	25	42	PD	"Broca's area, Vocal motor-sensory"	"6, 54"	Male	No	Yes	No	Yes	3387 - Medtronic	Medtronic	MER	2	GPi	U01 speech	Left	NA	2	NA
+DBS4062	56.6	NA	NA	ET	Vocal motor-sensory	63	Male	No	No	No	Yes	3387 - Medtronic	Medtronic	MER	1	VIM	U01 speech	"Left, Right"	NA	1	1
+DBS4063	36.2	NA	NA	Other	Broca's area	28	Male	No	Yes	No	Yes	NA	Medtronic	MER	1	NAc	Grip	"Left, Right"	NA	4	3
+DBS4065	67	20	42	PD	NA	NA	Male	No	NA	NA	Yes	3389 - Medtronic	Medtronic	MER	0	STN	Grip	NA	NA	NA	NA
+DBS4066	79	NA	NA	Dystonia	"Broca's area, Vocal motor-sensory"	"6, 63"	Female	No	No	No	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	Left	NA	1	NA
+DBS4067	49	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"6, 63"	Female	No	No	No	Yes	3387 - Medtronic	Medtronic	iMRI	2	VIM	U01 speech	"Left, Right"	NA	NA	NA
+DBS4068	74	20	38	PD	NA	NA	Male	Yes	NA	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	0	GPi	U01 speech	Left	NA	3	NA
+DBS4069	59	NA	NA	ET	Vocal motor-sensory	63	Male	No	No	No	Yes	6173 (long) - St. Jude	St. Jude	NA	1	VIM	U01 speech	Left	NA	1	NA
+DBS4070	67	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"4, 63"	Female	No	No	Yes	Yes	3387 - Medtronic	Medtronic	NA	2	VIM	U01 speech	"Left, Right"	NA	1	2
+DBS4071	64	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	No	NA	NA	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	"Left, Bilateral"	1	1	NA
+DBS4072	56	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	No	No	No	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	"Left, Bilateral"	1	1	NA
+DBS4073	78	NA	NA	ET	Vocal motor-sensory	63	Female	No	No	No	Yes	6173 (long) - St. Jude	St. Jude	NA	1	VIM	U01 speech	Left	NA	1	NA
+DBS4074	70	NA	NA	ET	Vocal motor-sensory	63	Male	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	1	VIM	U01 speech	Left	NA	1	NA
+DBS4075	74	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Female	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	Left	NA	1	NA
+DBS4076	66.6	NA	NA	ET	Vocal motor-sensory	63	Male	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	1	VIM	U01 speech	"Left, Bilateral"	1	2	NA
+DBS4077	71	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	"Left, Bilateral"	1	1	NA
+DBS4078	65	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	"Left, Bilateral"	1	1	NA
+DBS4079	74	14	25	PD	Vocal motor-sensory	63	Male	Yes	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	1	GPi	U01 speech	"Left, Bilateral"	1	3	NA
+DBS4080	64	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Female	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	"Left, Right"	NA	1	1
+DBS4081	60	10	17	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	No	No	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	2	GPi	U01 speech	Left	NA	0	NA
+DBS4082	64	NA	NA	ET	NA	NA	Female	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	0	VIM	U01 speech	Left	NA	1	NA
+DBS4083	69	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	No	No	Yes	Yes	3387 - Medtronic	Medtronic	NA	2	VIM	U01 speech	Bilateral	2	NA	NA
+DBS4084	64	NA	NA	ET	"Broca's area, Hand motor-sensory"	"63, 63"	Male	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	"Left, Bilateral"	1	1	NA
+DBS4085	69	24	42	PD	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	Yes	Yes	Yes	Yes	6172 (short) - St. Jude	St. Jude	MER	2	GPi	U01 speech	Left	NA	1	NA
+DBS4086	62	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Male	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	"Left, Bilateral"	1	1	NA
+DBS4087	66	NA	NA	ET	"Broca's area, Vocal motor-sensory"	"63, 63"	Female	No	No	Yes	Yes	6173 (long) - St. Jude	St. Jude	NA	2	VIM	U01 speech	"Left, Bilateral"	1	1	NA
+DBS4088	31	NA	NA	ET	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

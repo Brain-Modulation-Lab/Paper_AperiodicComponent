@@ -1,0 +1,327 @@
+subject	session_id	electrode	note	type	subsesel
+DBS4087	2	dbs_L4	comb noise in high frequencies	comb	DBS4087_2_dbs_L4
+DBS4087	2	dbs_L2C	NA	comb	DBS4087_2_dbs_L2C
+DBS4087	2	dbs_L2B	NA	comb	DBS4087_2_dbs_L2B
+DBS4087	2	dbs_L2A	NA	comb	DBS4087_2_dbs_L2A
+DBS4087	2	dbs_L1	NA	comb	DBS4087_2_dbs_L1
+DBS4087	1	ecog_263	NA	comb	DBS4087_1_ecog_263
+DBS4087	1	ecog_245	NA	comb	DBS4087_1_ecog_245
+DBS4087	1	ecog_153	NA	comb	DBS4087_1_ecog_153
+DBS4087	1	ecog_136	NA	comb	DBS4087_1_ecog_136
+DBS4087	1	ecog_129	NA	comb	DBS4087_1_ecog_129
+DBS4079	3	ecog_145	NA	comb	DBS4079_3_ecog_145
+DBS3025	3	ecog_263	strong - not regular, more noise like	comb	DBS3025_3_ecog_263
+DBS3025	3	ecog_261	weaker - not regular, more noise like	comb	DBS3025_3_ecog_261
+DBS3025	3	ecog_260	weaker - not regular, more noise like	comb	DBS3025_3_ecog_260
+DBS3025	3	ecog_258	weaker - not regular, more noise like	comb	DBS3025_3_ecog_258
+DBS3025	3	ecog_257	weaker - not regular, more noise like	comb	DBS3025_3_ecog_257
+DBS3025	3	ecog_256	weaker - not regular, more noise like	comb	DBS3025_3_ecog_256
+DBS3025	3	ecog_255	strong - not regular, more noise like	comb	DBS3025_3_ecog_255
+DBS3025	3	ecog_254	weaker - not regular, more noise like	comb	DBS3025_3_ecog_254
+DBS3025	3	ecog_253	weaker - not regular, more noise like	comb	DBS3025_3_ecog_253
+DBS3025	3	ecog_250	strong - not regular, more noise like	comb	DBS3025_3_ecog_250
+DBS3025	3	ecog_249	strong - not regular, more noise like	comb	DBS3025_3_ecog_249
+DBS3025	3	ecog_247	weaker - not regular, more noise like	comb	DBS3025_3_ecog_247
+DBS3025	3	ecog_246	weaker - not regular, more noise like	comb	DBS3025_3_ecog_246
+DBS3025	3	ecog_243	strong - not regular, more noise like	comb	DBS3025_3_ecog_243
+DBS3025	3	ecog_242	weaker - not regular, more noise like	comb	DBS3025_3_ecog_242
+DBS3025	3	ecog_232	strong - not regular, more noise like	comb	DBS3025_3_ecog_232
+DBS3025	3	ecog_231	weaker - not regular, more noise like	comb	DBS3025_3_ecog_231
+DBS3025	3	ecog_230	weaker - not regular, more noise like	comb	DBS3025_3_ecog_230
+DBS3025	3	ecog_229	weaker - not regular, more noise like	comb	DBS3025_3_ecog_229
+DBS3025	3	ecog_226	strong - not regular, more noise like	comb	DBS3025_3_ecog_226
+DBS3025	3	ecog_223	strong - not regular, more noise like	comb	DBS3025_3_ecog_223
+DBS3025	3	ecog_222	strong - not regular, more noise like	comb	DBS3025_3_ecog_222
+DBS3025	3	ecog_221	strong - not regular, more noise like	comb	DBS3025_3_ecog_221
+DBS3025	3	ecog_217	strong - not regular, more noise like	comb	DBS3025_3_ecog_217
+DBS3025	3	ecog_216	strong - not regular, more noise like	comb	DBS3025_3_ecog_216
+DBS3025	3	ecog_157	NA	comb	DBS3025_3_ecog_157
+DBS3025	3	ecog_156	NA	comb	DBS3025_3_ecog_156
+DBS3025	3	ecog_150	NA	comb	DBS3025_3_ecog_150
+DBS3025	3	ecog_148	NA	comb	DBS3025_3_ecog_148
+DBS3025	3	ecog_131	NA	comb	DBS3025_3_ecog_131
+DBS3025	3	ecog_130	NA	comb	DBS3025_3_ecog_130
+DBS3025	3	ecog_129	NA	comb	DBS3025_3_ecog_129
+DBS3025	3	ecog_127	NA	comb	DBS3025_3_ecog_127
+DBS3025	3	ecog_124	NA	comb	DBS3025_3_ecog_124
+DBS3025	3	ecog_123	NA	comb	DBS3025_3_ecog_123
+DBS3025	3	ecog_122	NA	comb	DBS3025_3_ecog_122
+DBS3025	3	ecog_121	NA	comb	DBS3025_3_ecog_121
+DBS3025	3	ecog_120	NA	comb	DBS3025_3_ecog_120
+DBS3025	3	ecog_117	NA	comb	DBS3025_3_ecog_117
+DBS3012	5	ecog_101	tiny combs	comb	DBS3012_5_ecog_101
+DBS3012	5	dbs_L04	normal combs	comb	DBS3012_5_dbs_L04
+DBS3012	5	dbs_L03	normal combs	comb	DBS3012_5_dbs_L03
+DBS3012	5	dbs_L02	normal combs	comb	DBS3012_5_dbs_L02
+DBS3012	5	dbs_L01	normal combs	comb	DBS3012_5_dbs_L01
+DBS4084	2	ecog_213	NA	ripples	DBS4084_2_ecog_213
+DBS4084	2	ecog_211	NA	ripples	DBS4084_2_ecog_211
+DBS4084	2	ecog_209	less prominent than previous	ripples	DBS4084_2_ecog_209
+DBS4084	2	ecog_207	NA	ripples	DBS4084_2_ecog_207
+DBS4084	2	ecog_206	less prominent than previous	ripples	DBS4084_2_ecog_206
+DBS4084	2	ecog_205	less prominent than previous	ripples	DBS4084_2_ecog_205
+DBS4084	2	ecog_204	less prominent than previous	ripples	DBS4084_2_ecog_204
+DBS4084	2	ecog_202	less prominent than previous	ripples	DBS4084_2_ecog_202
+DBS4078	2	ecog_228	NA	ripples	DBS4078_2_ecog_228
+DBS4078	2	ecog_225	NA	ripples	DBS4078_2_ecog_225
+DBS4078	2	ecog_215	NA	ripples	DBS4078_2_ecog_215
+DBS4078	2	ecog_211	NA	ripples	DBS4078_2_ecog_211
+DBS4078	2	ecog_205	NA	ripples	DBS4078_2_ecog_205
+DBS4078	2	ecog_204	NA	ripples	DBS4078_2_ecog_204
+DBS4078	2	ecog_203	NA	ripples	DBS4078_2_ecog_203
+DBS4078	2	ecog_202	NA	ripples	DBS4078_2_ecog_202
+DBS4078	2	ecog_201	NA	ripples	DBS4078_2_ecog_201
+DBS4078	2	ecog_137	NA	ripples	DBS4078_2_ecog_137
+DBS4078	1	ecog_212	NA	ripples	DBS4078_1_ecog_212
+DBS4078	1	ecog_211	NA	ripples	DBS4078_1_ecog_211
+DBS4078	1	ecog_210	NA	ripples	DBS4078_1_ecog_210
+DBS4078	1	ecog_208	NA	ripples	DBS4078_1_ecog_208
+DBS4078	1	ecog_207	NA	ripples	DBS4078_1_ecog_207
+DBS4078	1	ecog_206	NA	ripples	DBS4078_1_ecog_206
+DBS4078	1	ecog_205	NA	ripples	DBS4078_1_ecog_205
+DBS4078	1	ecog_204	NA	ripples	DBS4078_1_ecog_204
+DBS4078	1	ecog_203	NA	ripples	DBS4078_1_ecog_203
+DBS4078	1	ecog_202	NA	ripples	DBS4078_1_ecog_202
+DBS4078	1	ecog_201	NA	ripples	DBS4078_1_ecog_201
+DBS4078	1	ecog_152	NA	ripples	DBS4078_1_ecog_152
+DBS4078	1	ecog_150	not much	ripples	DBS4078_1_ecog_150
+DBS4078	1	ecog_149	not much	ripples	DBS4078_1_ecog_149
+DBS4078	1	ecog_132	not much	ripples	DBS4078_1_ecog_132
+DBS4078	1	ecog_131	not much	ripples	DBS4078_1_ecog_131
+DBS4078	1	ecog_130	not much	ripples	DBS4078_1_ecog_130
+DBS4078	1	ecog_122	NA	ripples	DBS4078_1_ecog_122
+DBS4074	2	ecog_160	NA	ripples	DBS4074_2_ecog_160
+DBS4074	2	ecog_159	NA	ripples	DBS4074_2_ecog_159
+DBS4074	2	ecog_156	NA	ripples	DBS4074_2_ecog_156
+DBS4074	2	ecog_154	NA	ripples	DBS4074_2_ecog_154
+DBS4074	2	ecog_145	NA	ripples	DBS4074_2_ecog_145
+DBS4074	2	ecog_144	NA	ripples	DBS4074_2_ecog_144
+DBS4074	2	ecog_132	NA	ripples	DBS4074_2_ecog_132
+DBS4074	2	ecog_131	NA	ripples	DBS4074_2_ecog_131
+DBS4074	2	ecog_130	NA	ripples	DBS4074_2_ecog_130
+DBS4074	2	ecog_129	NA	ripples	DBS4074_2_ecog_129
+DBS4074	2	ecog_128	NA	ripples	DBS4074_2_ecog_128
+DBS4074	2	ecog_127	not much	ripples	DBS4074_2_ecog_127
+DBS4074	2	ecog_126	not much	ripples	DBS4074_2_ecog_126
+DBS4074	2	ecog_112	NA	ripples	DBS4074_2_ecog_112
+DBS4074	2	ecog_110	NA	ripples	DBS4074_2_ecog_110
+DBS4074	2	ecog_105	NA	ripples	DBS4074_2_ecog_105
+DBS4072	2	ecog_115	NA	ripples	DBS4072_2_ecog_115
+DBS4072	1	ecog_224	NA	ripples	DBS4072_1_ecog_224
+DBS4072	1	ecog_221	NA	ripples	DBS4072_1_ecog_221
+DBS4072	1	ecog_219	not much	ripples	DBS4072_1_ecog_219
+DBS4072	1	ecog_156	NA	ripples	DBS4072_1_ecog_156
+DBS4072	1	ecog_115	not much	ripples	DBS4072_1_ecog_115
+DBS4072	1	ecog_113	not much	ripples	DBS4072_1_ecog_113
+DBS4072	1	ecog_111	NA	ripples	DBS4072_1_ecog_111
+DBS4071	3	ecog_150	not much	ripples	DBS4071_3_ecog_150
+DBS4071	3	ecog_149	not much	ripples	DBS4071_3_ecog_149
+DBS4071	2	ecog_150	not much	ripples	DBS4071_2_ecog_150
+DBS4071	2	ecog_149	not much	ripples	DBS4071_2_ecog_149
+DBS4070	3	ecog_156	NA	ripples	DBS4070_3_ecog_156
+DBS4070	3	ecog_138	not much	ripples	DBS4070_3_ecog_138
+DBS4070	3	ecog_137	not much	ripples	DBS4070_3_ecog_137
+DBS4070	3	ecog_124	NA	ripples	DBS4070_3_ecog_124
+DBS4070	1	ecog_156	NA	ripples	DBS4070_1_ecog_156
+DBS4070	1	ecog_110	not much	ripples	DBS4070_1_ecog_110
+DBS4068	3	ecog_150	NA	ripples	DBS4068_3_ecog_150
+DBS4067	2	ecog_163	not much	ripples	DBS4067_2_ecog_163
+DBS3022	3	dbs_L1	NA	ripples	DBS3022_3_dbs_L1
+DBS3015	4	ecog_104	NA	ripples	DBS3015_4_ecog_104
+DBS3014	4	ecog_109	not much	ripples	DBS3014_4_ecog_109
+DBS3014	2	ecog_158	NA	ripples	DBS3014_2_ecog_158
+DBS3014	2	ecog_151	NA	ripples	DBS3014_2_ecog_151
+DBS3014	2	ecog_106	not much	ripples	DBS3014_2_ecog_106
+DBS3014	2	ecog_104	not much	ripples	DBS3014_2_ecog_104
+DBS3014	1	ecog_163	not much	ripples	DBS3014_1_ecog_163
+DBS3014	1	ecog_162	NA	ripples	DBS3014_1_ecog_162
+DBS3014	1	ecog_158	NA	ripples	DBS3014_1_ecog_158
+DBS3014	1	ecog_151	NA	ripples	DBS3014_1_ecog_151
+DBS3014	1	ecog_149	NA	ripples	DBS3014_1_ecog_149
+DBS3014	1	ecog_106	NA	ripples	DBS3014_1_ecog_106
+DBS3014	1	ecog_104	NA	ripples	DBS3014_1_ecog_104
+DBS3012	5	ecog_159	NA	ripples	DBS3012_5_ecog_159
+DBS3012	5	ecog_156	NA	ripples	DBS3012_5_ecog_156
+DBS3012	5	ecog_155	NA	ripples	DBS3012_5_ecog_155
+DBS3012	5	ecog_154	not much	ripples	DBS3012_5_ecog_154
+DBS3012	5	ecog_153	NA	ripples	DBS3012_5_ecog_153
+DBS3012	5	ecog_150	not much	ripples	DBS3012_5_ecog_150
+DBS3012	5	ecog_147	not much	ripples	DBS3012_5_ecog_147
+DBS3012	5	ecog_146	not much	ripples	DBS3012_5_ecog_146
+DBS3012	5	ecog_145	not much	ripples	DBS3012_5_ecog_145
+DBS3012	5	ecog_142	not much	ripples	DBS3012_5_ecog_142
+DBS3012	5	ecog_141	not much	ripples	DBS3012_5_ecog_141
+DBS3012	5	ecog_138	not much	ripples	DBS3012_5_ecog_138
+DBS3012	5	ecog_125	NA	ripples	DBS3012_5_ecog_125
+DBS3012	5	ecog_124	NA	ripples	DBS3012_5_ecog_124
+DBS3012	5	ecog_123	NA	ripples	DBS3012_5_ecog_123
+DBS3011	4	ecog_162	NA	ripples	DBS3011_4_ecog_162
+DBS3011	4	ecog_160	NA	ripples	DBS3011_4_ecog_160
+DBS3011	4	ecog_159	NA	ripples	DBS3011_4_ecog_159
+DBS3011	4	ecog_148	not much	ripples	DBS3011_4_ecog_148
+DBS3011	4	ecog_147	not much	ripples	DBS3011_4_ecog_147
+DBS3011	4	ecog_146	not much	ripples	DBS3011_4_ecog_146
+DBS3011	4	ecog_145	not much	ripples	DBS3011_4_ecog_145
+DBS3011	4	ecog_141	NA	ripples	DBS3011_4_ecog_141
+DBS3011	4	ecog_140	NA	ripples	DBS3011_4_ecog_140
+DBS3011	4	ecog_139	NA	ripples	DBS3011_4_ecog_139
+DBS3010	4	ecog_261	NA	ripples	DBS3010_4_ecog_261
+DBS3010	4	ecog_255	NA	ripples	DBS3010_4_ecog_255
+DBS3010	4	ecog_253	NA	ripples	DBS3010_4_ecog_253
+DBS3010	4	ecog_249	NA	ripples	DBS3010_4_ecog_249
+DBS3010	4	ecog_241	not much	ripples	DBS3010_4_ecog_241
+DBS3010	4	ecog_240	NA	ripples	DBS3010_4_ecog_240
+DBS3010	4	ecog_219	not much	ripples	DBS3010_4_ecog_219
+DBS3010	4	ecog_210	not much	ripples	DBS3010_4_ecog_210
+DBS3010	4	ecog_145	NA	ripples	DBS3010_4_ecog_145
+DBS3010	4	ecog_113	not much	ripples	DBS3010_4_ecog_113
+DBS4087	1	ecog_115	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_115
+DBS4087	1	ecog_112	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_112
+DBS4087	1	ecog_111	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_111
+DBS4087	1	ecog_109	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_109
+DBS4087	1	ecog_108	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_108
+DBS4087	1	ecog_107	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_107
+DBS4087	1	ecog_106	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_106
+DBS4087	1	ecog_105	comb-ish too	line_noise_beat	DBS4087_1_ecog_105
+DBS4087	1	ecog_104	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_104
+DBS4087	1	ecog_103	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_103
+DBS4087	1	ecog_102	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_102
+DBS4087	1	ecog_101	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_101
+DBS4087	1	ecog_100	small artifact, 100 hz	line_noise_beat	DBS4087_1_ecog_100
+DBS4087	1	dbs_L4	comb-ish too	line_noise_beat	DBS4087_1_dbs_L4
+DBS4086	2	ecog_101	small artifact, 100 hz	line_noise_beat	DBS4086_2_ecog_101
+DBS4083	1	ecog_263	NA	line_noise_beat	DBS4083_1_ecog_263
+DBS4083	1	ecog_262	NA	line_noise_beat	DBS4083_1_ecog_262
+DBS4083	1	ecog_256	3 peaks all about the same height	line_noise_beat	DBS4083_1_ecog_256
+DBS4083	1	ecog_255	3 peaks all about the same height	line_noise_beat	DBS4083_1_ecog_255
+DBS4083	1	ecog_249	3 peaks all about the same height	line_noise_beat	DBS4083_1_ecog_249
+DBS3025	3	ecog_163	side peaks are more narrow	line_noise_beat	DBS3025_3_ecog_163
+DBS3025	3	ecog_162	side peaks are more narrow	line_noise_beat	DBS3025_3_ecog_162
+DBS3025	3	ecog_158	NA	line_noise_beat	DBS3025_3_ecog_158
+DBS3014	4	dbs_R4	ALL subjects dbs electrodes	line_noise_beat	DBS3014_4_dbs_R4
+DBS3014	4	dbs_R3C	NA	line_noise_beat	DBS3014_4_dbs_R3C
+DBS3014	4	dbs_R3B	NA	line_noise_beat	DBS3014_4_dbs_R3B
+DBS3014	4	dbs_R3A	NA	line_noise_beat	DBS3014_4_dbs_R3A
+DBS3014	4	dbs_R2C	NA	line_noise_beat	DBS3014_4_dbs_R2C
+DBS3014	4	dbs_R2B	NA	line_noise_beat	DBS3014_4_dbs_R2B
+DBS3014	4	dbs_R2A	NA	line_noise_beat	DBS3014_4_dbs_R2A
+DBS3014	4	dbs_R1	less	line_noise_beat	DBS3014_4_dbs_R1
+DBS3014	4	dbs_L4	NA	line_noise_beat	DBS3014_4_dbs_L4
+DBS3014	4	dbs_L3C	NA	line_noise_beat	DBS3014_4_dbs_L3C
+DBS3014	4	dbs_L3B	NA	line_noise_beat	DBS3014_4_dbs_L3B
+DBS3014	4	dbs_L3A	NA	line_noise_beat	DBS3014_4_dbs_L3A
+DBS3014	4	dbs_L2C	NA	line_noise_beat	DBS3014_4_dbs_L2C
+DBS3014	4	dbs_L2B	NA	line_noise_beat	DBS3014_4_dbs_L2B
+DBS3014	4	dbs_L2A	NA	line_noise_beat	DBS3014_4_dbs_L2A
+DBS3014	4	dbs_L1	NA	line_noise_beat	DBS3014_4_dbs_L1
+DBS4080	1	ecog_249	120 hz, wide and sharp peaks	wide_line_noise	DBS4080_1_ecog_249
+DBS4087	2	dbs_R4	60hz, mildly comb like too	wide_line_noise	DBS4087_2_dbs_R4
+DBS4087	2	dbs_R3C	NA	wide_line_noise	DBS4087_2_dbs_R3C
+DBS4087	2	dbs_R3B	NA	wide_line_noise	DBS4087_2_dbs_R3B
+DBS4087	2	dbs_R3A	NA	wide_line_noise	DBS4087_2_dbs_R3A
+DBS4087	2	dbs_R2C	NA	wide_line_noise	DBS4087_2_dbs_R2C
+DBS4087	2	dbs_R2B	NA	wide_line_noise	DBS4087_2_dbs_R2B
+DBS4087	2	dbs_R2A	NA	wide_line_noise	DBS4087_2_dbs_R2A
+DBS4087	2	dbs_R1	NA	wide_line_noise	DBS4087_2_dbs_R1
+DBS3028	4	ecog_154	180 hz, wide and sharp peaks	wide_line_noise	DBS3028_4_ecog_154
+DBS3028	4	ecog_153	180 hz, wide and sharp peaks	wide_line_noise	DBS3028_4_ecog_153
+DBS3028	4	ecog_152	180 hz, wide and sharp peaks	wide_line_noise	DBS3028_4_ecog_152
+DBS3028	4	ecog_151	180 hz, wide and sharp peaks	wide_line_noise	DBS3028_4_ecog_151
+DBS3028	4	ecog_150	180 hz, wide and sharp peaks	wide_line_noise	DBS3028_4_ecog_150
+DBS3028	4	ecog_149	180 hz, wide and sharp peaks	wide_line_noise	DBS3028_4_ecog_149
+DBS3027	3	ecog_127	180 hz, wide and sharp peaks, more so high gamma noise + line noise	wide_line_noise	DBS3027_3_ecog_127
+DBS3027	3	ecog_126	NA	wide_line_noise	DBS3027_3_ecog_126
+DBS3027	3	ecog_124	NA	wide_line_noise	DBS3027_3_ecog_124
+DBS3027	3	ecog_123	NA	wide_line_noise	DBS3027_3_ecog_123
+DBS3027	3	ecog_121	NA	wide_line_noise	DBS3027_3_ecog_121
+DBS3027	3	ecog_120	NA	wide_line_noise	DBS3027_3_ecog_120
+DBS3027	3	ecog_119	NA	wide_line_noise	DBS3027_3_ecog_119
+DBS3027	3	ecog_118	NA	wide_line_noise	DBS3027_3_ecog_118
+DBS3027	3	ecog_117	NA	wide_line_noise	DBS3027_3_ecog_117
+DBS3027	3	ecog_116	NA	wide_line_noise	DBS3027_3_ecog_116
+DBS3014	4	ecog_155	120 Hz	wide_line_noise	DBS3014_4_ecog_155
+DBS3014	4	ecog_154	NA	wide_line_noise	DBS3014_4_ecog_154
+DBS3014	3	ecog_155	NA	wide_line_noise	DBS3014_3_ecog_155
+DBS3014	3	ecog_154	NA	wide_line_noise	DBS3014_3_ecog_154
+DBS3014	3	ecog_153	NA	wide_line_noise	DBS3014_3_ecog_153
+DBS3014	3	ecog_152	NA	wide_line_noise	DBS3014_3_ecog_152
+DBS3014	3	ecog_151	less	wide_line_noise	DBS3014_3_ecog_151
+DBS3014	3	ecog_150	less	wide_line_noise	DBS3014_3_ecog_150
+DBS3014	3	ecog_149	less	wide_line_noise	DBS3014_3_ecog_149
+DBS3014	3	dbs_R4	STRONG	wide_line_noise	DBS3014_3_dbs_R4
+DBS3014	3	dbs_R3C	STRONG	wide_line_noise	DBS3014_3_dbs_R3C
+DBS3014	3	dbs_R3B	STRONG	wide_line_noise	DBS3014_3_dbs_R3B
+DBS3014	3	dbs_R3A	STRONG	wide_line_noise	DBS3014_3_dbs_R3A
+DBS3014	3	dbs_R2C	STRONG	wide_line_noise	DBS3014_3_dbs_R2C
+DBS3014	3	dbs_R2B	STRONG	wide_line_noise	DBS3014_3_dbs_R2B
+DBS3014	3	dbs_R2A	STRONG	wide_line_noise	DBS3014_3_dbs_R2A
+DBS3014	3	dbs_R1	STRONG	wide_line_noise	DBS3014_3_dbs_R1
+DBS3014	3	dbs_L4	STRONG	wide_line_noise	DBS3014_3_dbs_L4
+DBS3014	3	dbs_L3C	STRONG	wide_line_noise	DBS3014_3_dbs_L3C
+DBS3014	3	dbs_L3B	STRONG	wide_line_noise	DBS3014_3_dbs_L3B
+DBS3014	3	dbs_L3A	STRONG	wide_line_noise	DBS3014_3_dbs_L3A
+DBS3014	3	dbs_L2C	STRONG	wide_line_noise	DBS3014_3_dbs_L2C
+DBS3014	3	dbs_L2B	STRONG	wide_line_noise	DBS3014_3_dbs_L2B
+DBS3014	3	dbs_L2A	STRONG	wide_line_noise	DBS3014_3_dbs_L2A
+DBS3014	3	dbs_L1	STRONG	wide_line_noise	DBS3014_3_dbs_L1
+DBS3014	2	dbs_R4	STRONG	wide_line_noise	DBS3014_2_dbs_R4
+DBS3014	2	dbs_R3C	STRONG	wide_line_noise	DBS3014_2_dbs_R3C
+DBS3014	2	dbs_R3B	STRONG	wide_line_noise	DBS3014_2_dbs_R3B
+DBS3014	2	dbs_R3A	STRONG	wide_line_noise	DBS3014_2_dbs_R3A
+DBS3014	2	dbs_R2C	STRONG	wide_line_noise	DBS3014_2_dbs_R2C
+DBS3014	2	dbs_R2B	STRONG	wide_line_noise	DBS3014_2_dbs_R2B
+DBS3014	2	dbs_R2A	STRONG	wide_line_noise	DBS3014_2_dbs_R2A
+DBS3014	2	dbs_R1	STRONG	wide_line_noise	DBS3014_2_dbs_R1
+DBS3014	2	dbs_L4	STRONG	wide_line_noise	DBS3014_2_dbs_L4
+DBS3014	2	dbs_L3C	STRONG	wide_line_noise	DBS3014_2_dbs_L3C
+DBS3014	2	dbs_L3B	STRONG	wide_line_noise	DBS3014_2_dbs_L3B
+DBS3014	2	dbs_L3A	STRONG	wide_line_noise	DBS3014_2_dbs_L3A
+DBS3014	2	dbs_L2C	STRONG	wide_line_noise	DBS3014_2_dbs_L2C
+DBS3014	2	dbs_L2B	STRONG	wide_line_noise	DBS3014_2_dbs_L2B
+DBS3014	2	dbs_L2A	STRONG	wide_line_noise	DBS3014_2_dbs_L2A
+DBS3014	2	dbs_L1	STRONG	wide_line_noise	DBS3014_2_dbs_L1
+DBS3014	1	dbs_R4	STRONG	wide_line_noise	DBS3014_1_dbs_R4
+DBS3014	1	dbs_R3C	STRONG	wide_line_noise	DBS3014_1_dbs_R3C
+DBS3014	1	dbs_R3B	STRONG	wide_line_noise	DBS3014_1_dbs_R3B
+DBS3014	1	dbs_R3A	STRONG	wide_line_noise	DBS3014_1_dbs_R3A
+DBS3014	1	dbs_R2C	STRONG	wide_line_noise	DBS3014_1_dbs_R2C
+DBS3014	1	dbs_R2B	STRONG	wide_line_noise	DBS3014_1_dbs_R2B
+DBS3014	1	dbs_R2A	STRONG	wide_line_noise	DBS3014_1_dbs_R2A
+DBS3014	1	dbs_R1	STRONG	wide_line_noise	DBS3014_1_dbs_R1
+DBS3014	1	dbs_L4	STRONG	wide_line_noise	DBS3014_1_dbs_L4
+DBS3014	1	dbs_L3C	STRONG	wide_line_noise	DBS3014_1_dbs_L3C
+DBS3014	1	dbs_L3B	STRONG	wide_line_noise	DBS3014_1_dbs_L3B
+DBS3014	1	dbs_L3A	STRONG	wide_line_noise	DBS3014_1_dbs_L3A
+DBS3014	1	dbs_L2C	STRONG	wide_line_noise	DBS3014_1_dbs_L2C
+DBS3014	1	dbs_L2B	STRONG	wide_line_noise	DBS3014_1_dbs_L2B
+DBS3014	1	dbs_L2A	STRONG	wide_line_noise	DBS3014_1_dbs_L2A
+DBS3014	1	dbs_L1	STRONG	wide_line_noise	DBS3014_1_dbs_L1
+DBS4087	1	didnt fill out	Lots of Gamma Noise	gamma_stuff	DBS4087_1_didnt fill out
+DBS4086	1	ecog_104	Lots of Gamma Noise	gamma_stuff	DBS4086_1_ecog_104
+DBS4085	2	dbs_L3A	very high gamma, also in other nearby electrodes but less prominent	gamma_stuff	DBS4085_2_dbs_L3A
+DBS4085	2	dbs_L2A	very high gamma	gamma_stuff	DBS4085_2_dbs_L2A
+DBS4080	1	ecog_211	high gamma starting around 10**1.75	gamma_stuff	DBS4080_1_ecog_211
+DBS4080	1	ecog_212	NA	gamma_stuff	DBS4080_1_ecog_212
+DBS4080	1	ecog_213	becoming less and less prominent	gamma_stuff	DBS4080_1_ecog_213
+DBS4080	1	ecog_214	NA	gamma_stuff	DBS4080_1_ecog_214
+DBS4080	1	ecog_215	NA	gamma_stuff	DBS4080_1_ecog_215
+DBS4080	1	ecog_216	NA	gamma_stuff	DBS4080_1_ecog_216
+DBS4080	1	ecog_217	NA	gamma_stuff	DBS4080_1_ecog_217
+DBS4080	1	ecog_218	NA	gamma_stuff	DBS4080_1_ecog_218
+DBS4080	1	ecog_219	NA	gamma_stuff	DBS4080_1_ecog_219
+DBS4080	1	ecog_220	NA	gamma_stuff	DBS4080_1_ecog_220
+DBS4080	1	ecog_201	NA	gamma_stuff	DBS4080_1_ecog_201
+DBS4080	1	ecog_202	NA	gamma_stuff	DBS4080_1_ecog_202
+DBS4080	1	ecog_203	NA	gamma_stuff	DBS4080_1_ecog_203
+DBS4080	1	ecog_204	NA	gamma_stuff	DBS4080_1_ecog_204
+DBS4080	1	ecog_205	NA	gamma_stuff	DBS4080_1_ecog_205
+DBS4080	1	ecog_206	NA	gamma_stuff	DBS4080_1_ecog_206
+DBS4080	1	ecog_207	NA	gamma_stuff	DBS4080_1_ecog_207
+DBS4079	3	dbs_L4	NA	gamma_stuff	DBS4079_3_dbs_L4
+DBS4079	3	dbs_L3C	NA	gamma_stuff	DBS4079_3_dbs_L3C
+DBS4079	3	dbs_L3B	NA	gamma_stuff	DBS4079_3_dbs_L3B
+DBS4079	3	dbs_L3A	NA	gamma_stuff	DBS4079_3_dbs_L3A
+DBS4079	3	dbs_L2C	NA	gamma_stuff	DBS4079_3_dbs_L2C
+DBS4079	3	dbs_L2B	NA	gamma_stuff	DBS4079_3_dbs_L2B
+DBS4079	3	dbs_L2A	NA	gamma_stuff	DBS4079_3_dbs_L2A
+DBS4079	3	dbs_L1	NA	gamma_stuff	DBS4079_3_dbs_L1
